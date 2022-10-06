@@ -1,0 +1,308 @@
+{
+  "font-size-label": {
+    "100": {
+      "value": "6px",
+      "type": "fontSizes"
+    },
+    "200": {
+      "value": "7px",
+      "type": "fontSizes"
+    },
+    "300": {
+      "value": "8px",
+      "type": "fontSizes"
+    },
+    "400": {
+      "value": "10px",
+      "type": "fontSizes"
+    },
+    "500": {
+      "value": "12px",
+      "type": "fontSizes"
+    },
+    "600": {
+      "value": "14px",
+      "type": "fontSizes"
+    },
+    "700": {
+      "value": "16px",
+      "type": "fontSizes"
+    },
+    "800": {
+      "value": "18px",
+      "type": "fontSizes"
+    },
+    "900": {
+      "value": "20px",
+      "type": "fontSizes"
+    },
+    "1000": {
+      "value": "30px",
+      "type": "fontSizes"
+    }
+  },
+  "font-weight": {
+    "100": {
+      "value": "Light",
+      "type": "fontWeights"
+    },
+    "200": {
+      "value": "Regular",
+      "type": "fontWeights"
+    },
+    "300": {
+      "value": "Medium",
+      "type": "fontWeights"
+    },
+    "400": {
+      "value": "Bold",
+      "type": "fontWeights"
+    }
+  },
+  "line-height": {
+    "100": {
+      "value": "10",
+      "type": "lineHeights"
+    },
+    "200": {
+      "value": "12",
+      "type": "lineHeights"
+    },
+    "300": {
+      "value": "14",
+      "type": "lineHeights"
+    },
+    "400": {
+      "value": "15",
+      "type": "lineHeights"
+    },
+    "500": {
+      "value": "16",
+      "type": "lineHeights"
+    },
+    "600": {
+      "value": "22",
+      "type": "lineHeights"
+    },
+    "700": {
+      "value": "24",
+      "type": "lineHeights"
+    },
+    "800": {
+      "value": "26",
+      "type": "lineHeights"
+    },
+    "850": {
+      "value": "32",
+      "type": "lineHeights"
+    },
+    "900": {
+      "value": "40",
+      "type": "lineHeights"
+    },
+    "1000": {
+      "value": "56",
+      "type": "lineHeights"
+    },
+    "1100": {
+      "value": "64",
+      "type": "lineHeights"
+    },
+    "1200": {
+      "value": "82",
+      "type": "lineHeights"
+    }
+  },
+  "font-family": {
+    "primary": {
+      "value": "Futura Now Headline",
+      "type": "fontFamilies"
+    },
+    "secondary": {
+      "value": "Futura Now Text",
+      "type": "fontFamilies"
+    }
+  },
+  "text-case": {
+    "default": {
+      "value": "none",
+      "type": "textCase"
+    },
+    "special": {
+      "value": "none",
+      "type": "textCase"
+    }
+  },
+  "font-size-body": {
+    "100": {
+      "value": "12",
+      "type": "fontSizes"
+    },
+    "200": {
+      "value": "14",
+      "type": "fontSizes"
+    },
+    "300": {
+      "value": "16",
+      "type": "fontSizes"
+    },
+    "400": {
+      "value": "18",
+      "type": "fontSizes"
+    }
+  },
+  "font-size-headline": {
+    "100": {
+      "value": "18",
+      "type": "fontSizes"
+    },
+    "200": {
+      "value": "20",
+      "type": "fontSizes"
+    },
+    "300": {
+      "value": "24",
+      "type": "fontSizes"
+    },
+    "400": {
+      "value": "28",
+      "type": "fontSizes"
+    },
+    "500": {
+      "value": "30",
+      "type": "fontSizes"
+    },
+    "600": {
+      "value": "42",
+      "type": "fontSizes"
+    },
+    "700": {
+      "value": "52",
+      "type": "fontSizes"
+    },
+    "800": {
+      "value": "72",
+      "type": "fontSizes"
+    }
+  },
+  "color": {
+    "accent": {
+      "300": {
+        "value": "linear-gradient(-90deg, {color.gradients.100.primary} 0%, {color.gradients.100.secondary} 50%, {color.gradients.100.tertiary} 100%)",
+        "type": "color"
+      },
+      "400": {
+        "value": "linear-gradient(-90deg, {color.gradients.200.primary} 0%, {color.gradients.200.secondary} 50%, {color.gradients.200.tertiary} 100%)",
+        "type": "color"
+      },
+      "500": {
+        "value": "linear-gradient(-90deg, {color.gradients.300.primary} 0%, {color.gradients.300.secondary} 50%, {color.gradients.300.tertiary} 100%)",
+        "type": "color"
+      },
+      "600": {
+        "value": "linear-gradient(-90deg, {color.gradients.400.primary} 0%, {color.gradients.400.secondary} 50%, {color.gradients.400.tertiary} 100%)",
+        "type": "color"
+      }
+    },
+    "gradients": {
+      "100": {
+        "primary": {
+          "value": "#ff6047",
+          "type": "color"
+        },
+        "secondary": {
+          "value": "#c850f5",
+          "type": "color"
+        },
+        "tertiary": {
+          "value": "rgb(105, 58, 189)",
+          "type": "color"
+        }
+      },
+      "200": {
+        "primary": {
+          "value": "#FF806C",
+          "type": "color"
+        },
+        "secondary": {
+          "value": "#CE61F6",
+          "type": "color"
+        },
+        "tertiary": {
+          "value": "#784EC4",
+          "type": "color"
+        }
+      },
+      "300": {
+        "primary": {
+          "value": "#E65640",
+          "type": "color"
+        },
+        "secondary": {
+          "value": "#B448DC",
+          "type": "color"
+        },
+        "tertiary": {
+          "value": "#5E34AA",
+          "type": "color"
+        }
+      },
+      "400": {
+        "primary": {
+          "value": "#B34332",
+          "type": "color"
+        },
+        "secondary": {
+          "value": "#8C38AC",
+          "type": "color"
+        },
+        "tertiary": {
+          "value": "#4A2984",
+          "type": "color"
+        }
+      }
+    }
+  },
+  "border-radius": {
+    "100": {
+      "value": "0",
+      "type": "borderRadius"
+    },
+    "200": {
+      "value": "0",
+      "type": "borderRadius"
+    },
+    "300": {
+      "value": "12",
+      "type": "borderRadius"
+    }
+  },
+  "font-size-caption": {
+    "100": {
+      "value": "9",
+      "type": "fontSizes"
+    }
+  },
+  "font-size-title": {
+    "100": {
+      "value": "10",
+      "type": "fontSizes"
+    },
+    "200": {
+      "value": "11",
+      "type": "fontSizes"
+    },
+    "300": {
+      "value": "14",
+      "type": "fontSizes"
+    },
+    "400": {
+      "value": "18",
+      "type": "fontSizes"
+    },
+    "500": {
+      "value": "28",
+      "type": "fontSizes"
+    }
+  }
+}
