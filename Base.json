@@ -1023,11 +1023,11 @@
   },
   "border-radius": {
     "100": {
-      "value": "0",
+      "value": "4",
       "type": "borderRadius"
     },
     "200": {
-      "value": "0",
+      "value": "8",
       "type": "borderRadius"
     },
     "300": {
