@@ -115,6 +115,14 @@
     "300": {
       "value": "12",
       "type": "borderRadius"
+    },
+    "400": {
+      "value": "20",
+      "type": "borderRadius"
+    },
+    "500": {
+      "value": "40",
+      "type": "borderRadius"
     }
   },
   "typo": {
