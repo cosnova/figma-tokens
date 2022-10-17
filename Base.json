@@ -1069,7 +1069,7 @@
       "type": "borderWidth"
     },
     "regular": {
-      "value": "{border-width.300}",
+      "value": "{border-width.400}",
       "type": "borderWidth"
     }
   },
