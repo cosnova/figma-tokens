@@ -341,5 +341,18 @@
         "type": "typography"
       }
     }
+  },
+  "drop-shadow": {
+    "primary": {
+      "value": {
+        "x": "1",
+        "y": "7",
+        "blur": "8",
+        "spread": "0",
+        "color": "#F1D1A1",
+        "type": "dropShadow"
+      },
+      "type": "boxShadow"
+    }
   }
 }
