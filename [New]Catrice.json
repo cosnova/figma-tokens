@@ -349,7 +349,7 @@
         "y": "7",
         "blur": "8",
         "spread": "0",
-        "color": "#F1D1A1",
+        "color": "rgba(241, 209, 161, 0.8)",
         "type": "dropShadow"
       },
       "type": "boxShadow"
