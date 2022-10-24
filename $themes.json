@@ -94,7 +94,7 @@
     "id": "b44fcd7dfb66be58c5533aac864f7c6d7531749e",
     "name": "Catrice",
     "selectedTokenSets": {
-      "Base": "source",
+      "Base": "enabled",
       "[New]Catrice": "enabled"
     },
     "$figmaStyleReferences": {
