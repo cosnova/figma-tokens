@@ -129,27 +129,27 @@
     "input-label": {
       "700": {
         "value": {
-          "letterSpacing": "0.05px"
+          "letterSpacing": "{tracking.default}"
         },
         "type": "typography"
       },
       "800": {
         "value": {
-          "letterSpacing": "1.2px",
+          "letterSpacing": "{tracking.default}",
           "fontSize": "{font-size-label.800}"
         },
         "type": "typography"
       },
       "900": {
         "value": {
-          "letterSpacing": "0.75px",
+          "letterSpacing": "{tracking.default}",
           "fontSize": "{font-size-label.950}"
         },
         "type": "typography"
       },
       "400-medium": {
         "value": {
-          "letterSpacing": "0.4px"
+          "letterSpacing": "{tracking.default}"
         },
         "type": "typography"
       }
@@ -157,49 +157,61 @@
     "label": {
       "100": {
         "value": {
-          "letterSpacing": "0.9px"
+          "letterSpacing": "{tracking.default}"
         },
         "type": "typography"
       },
       "200": {
         "value": {
-          "letterSpacing": "1.4px"
+          "letterSpacing": "{tracking.default}"
+        },
+        "type": "typography"
+      },
+      "300": {
+        "value": {
+          "letterSpacing": "{tracking.default}"
         },
         "type": "typography"
       },
       "350": {
         "value": {
-          "letterSpacing": "1.2px"
+          "letterSpacing": "{tracking.default}"
         },
         "type": "typography"
       },
       "600": {
         "value": {
-          "letterSpacing": "2.3px"
+          "letterSpacing": "{tracking.default}"
         },
         "type": "typography"
       },
-      "400-bold": {
+      "500-light": {
         "value": {
-          "letterSpacing": "1.85px"
+          "letterSpacing": "{tracking.default}"
         },
         "type": "typography"
       },
       "400-medium": {
         "value": {
-          "letterSpacing": "1.85px"
+          "letterSpacing": "{tracking.default}"
+        },
+        "type": "typography"
+      },
+      "400-bold": {
+        "value": {
+          "letterSpacing": "{tracking.default}"
         },
         "type": "typography"
       },
       "500-medium": {
         "value": {
-          "letterSpacing": "2.3px"
+          "letterSpacing": "{tracking.default}"
         },
         "type": "typography"
       },
       "550-medium": {
         "value": {
-          "letterSpacing": "2.3px"
+          "letterSpacing": "{tracking.default}"
         },
         "type": "typography"
       }
@@ -207,33 +219,63 @@
     "misc": {
       "FilterSort-Leading-16": {
         "value": {
-          "letterSpacing": "2.3px"
+          "letterSpacing": "{tracking.default}"
+        },
+        "type": "typography"
+      },
+      "caption-100": {
+        "value": {
+          "letterSpacing": "{tracking.default}"
         },
         "type": "typography"
       }
     },
     "body": {
+      "100": {
+        "value": {
+          "letterSpacing": "{tracking.default}"
+        },
+        "type": "typography"
+      },
+      "200": {
+        "value": {
+          "letterSpacing": "{tracking.default}"
+        },
+        "type": "typography"
+      },
+      "300": {
+        "value": {
+          "letterSpacing": "{tracking.default}"
+        },
+        "type": "typography"
+      },
+      "400": {
+        "value": {
+          "letterSpacing": "{tracking.default}"
+        },
+        "type": "typography"
+      },
       "100-highlight": {
         "value": {
-          "letterSpacing": "0"
+          "letterSpacing": "{tracking.default}"
         },
         "type": "typography"
       },
       "200-highlight": {
         "value": {
-          "letterSpacing": "0"
+          "letterSpacing": "{tracking.default}"
         },
         "type": "typography"
       },
       "300-highlight": {
         "value": {
-          "letterSpacing": "0"
+          "letterSpacing": "{tracking.default}"
         },
         "type": "typography"
       },
       "400-highlight": {
         "value": {
-          "letterSpacing": "0"
+          "letterSpacing": "{tracking.default}"
         },
         "type": "typography"
       }
@@ -242,7 +284,7 @@
       "100": {
         "value": {
           "lineHeight": "78",
-          "letterSpacing": "7px",
+          "letterSpacing": "{tracking.default}",
           "fontSize": "66"
         },
         "type": "typography"
@@ -251,14 +293,15 @@
         "value": {
           "lineHeight": "60",
           "fontSize": "48",
-          "letterSpacing": "4.5px"
+          "letterSpacing": "{tracking.default}"
         },
         "type": "typography"
       },
       "300": {
         "value": {
           "lineHeight": "52",
-          "fontSize": "40"
+          "fontSize": "40",
+          "letterSpacing": "{tracking.default}"
         },
         "type": "typography"
       },
@@ -266,27 +309,27 @@
         "value": {
           "lineHeight": "36",
           "fontSize": "{font-size-headline.400}",
-          "letterSpacing": "2.5px"
+          "letterSpacing": "{tracking.default}"
         },
         "type": "typography"
       },
       "450": {
         "value": {
-          "letterSpacing": "1.75px",
+          "letterSpacing": "{tracking.default}",
           "fontSize": "22"
         },
         "type": "typography"
       },
       "500": {
         "value": {
-          "letterSpacing": "1.75px",
+          "letterSpacing": "{tracking.default}",
           "fontSize": "{font-size-headline.100}"
         },
         "type": "typography"
       },
       "600": {
         "value": {
-          "letterSpacing": "1.8",
+          "letterSpacing": "{tracking.default}",
           "fontSize": "{font-size-body.300}"
         },
         "type": "typography"
@@ -295,13 +338,13 @@
         "value": {
           "lineHeight": "36",
           "fontSize": "{font-size-headline.400}",
-          "letterSpacing": "2.5px"
+          "letterSpacing": "{tracking.default}"
         },
         "type": "typography"
       },
       "500-mixed": {
         "value": {
-          "letterSpacing": "1.75px",
+          "letterSpacing": "{tracking.default}",
           "fontSize": "{font-size-headline.100}"
         },
         "type": "typography"
@@ -310,33 +353,91 @@
     "titles": {
       "100": {
         "value": {
-          "letterSpacing": "0.5px"
+          "letterSpacing": "{tracking.default}"
         },
         "type": "typography"
       },
       "200": {
         "value": {
-          "letterSpacing": "-0.25px"
+          "letterSpacing": "{tracking.default}"
         },
         "type": "typography"
       },
       "300": {
         "value": {
-          "letterSpacing": "-0.25px"
+          "letterSpacing": "{tracking.default}"
         },
         "type": "typography"
       },
       "400": {
         "value": {
-          "letterSpacing": "-0.2px"
+          "letterSpacing": "{tracking.default}"
+        },
+        "type": "typography"
+      },
+      "300--strikethrough": {
+        "value": {
+          "letterSpacing": "{tracking.default}"
         },
         "type": "typography"
       }
     },
     "subtitles": {
+      "100": {
+        "value": {
+          "letterSpacing": "{tracking.default}"
+        },
+        "type": "typography"
+      },
+      "200": {
+        "value": {
+          "letterSpacing": "{tracking.default}"
+        },
+        "type": "typography"
+      },
+      "300": {
+        "value": {
+          "letterSpacing": "{tracking.default}"
+        },
+        "type": "typography"
+      },
       "100-highlight": {
         "value": {
-          "letterSpacing": "-0.1px"
+          "letterSpacing": "{tracking.default}"
+        },
+        "type": "typography"
+      }
+    },
+    "dropdown": {
+      "Leading-16": {
+        "value": {
+          "letterSpacing": "{tracking.default}"
+        },
+        "type": "typography"
+      },
+      "xParts-Leading-16": {
+        "value": {
+          "letterSpacing": "{tracking.default}"
+        },
+        "type": "typography"
+      }
+    },
+    "subheadline": {
+      "100": {
+        "value": {
+          "letterSpacing": "{tracking.default}"
+        },
+        "type": "typography"
+      },
+      "200": {
+        "value": {
+          "letterSpacing": "{tracking.default}"
+        },
+        "type": "typography"
+      },
+      "300": {
+        "value": {
+          "letterSpacing": "{tracking.default}"
         },
         "type": "typography"
       }
@@ -353,6 +454,13 @@
         "type": "dropShadow"
       },
       "type": "boxShadow"
+    }
+  },
+  "tracking": {
+    "default": {
+      "value": "0",
+      "type": "letterSpacing",
+      "description": "Resetting tracking to default font tracking"
     }
   }
 }
