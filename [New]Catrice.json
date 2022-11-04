@@ -683,6 +683,17 @@
         "type": "dropShadow"
       },
       "type": "boxShadow"
+    },
+    "secondary": {
+      "value": {
+        "x": "0",
+        "y": "25",
+        "blur": "42",
+        "spread": "-12",
+        "color": "#F1D1A1",
+        "type": "dropShadow"
+      },
+      "type": "boxShadow"
     }
   },
   "tracking": {
