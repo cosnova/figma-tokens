@@ -914,6 +914,17 @@
           "textCase": "{text-case.default}"
         },
         "type": "typography"
+      },
+      "400": {
+        "value": {
+          "fontFamily": "{font-family.primary}",
+          "fontWeight": "{font-weight.200}",
+          "lineHeight": "{line-height.700}",
+          "fontSize": "{font-size-body.100}",
+          "letterSpacing": "0,4px",
+          "textCase": "{text-case.default}"
+        },
+        "type": "typography"
       }
     },
     "titles": {
