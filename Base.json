@@ -884,7 +884,7 @@
     "subheadline": {
       "100": {
         "value": {
-          "fontFamily": "{font-family.primary}",
+          "fontFamily": "{font-family.secondary}",
           "fontWeight": "{font-weight.100}",
           "lineHeight": "{line-height.900}",
           "fontSize": "{font-size-headline.400}",
@@ -895,7 +895,7 @@
       },
       "200": {
         "value": {
-          "fontFamily": "{font-family.primary}",
+          "fontFamily": "{font-family.secondary}",
           "fontWeight": "{font-weight.100}",
           "lineHeight": "{line-height.850}",
           "fontSize": "{font-size-headline.300}",
@@ -906,7 +906,7 @@
       },
       "300": {
         "value": {
-          "fontFamily": "{font-family.primary}",
+          "fontFamily": "{font-family.secondary}",
           "fontWeight": "{font-weight.100}",
           "lineHeight": "{line-height.700}",
           "fontSize": "{font-size-headline.100}",
@@ -917,7 +917,7 @@
       },
       "400": {
         "value": {
-          "fontFamily": "{font-family.primary}",
+          "fontFamily": "{font-family.secondary}",
           "fontWeight": "{font-weight.200}",
           "lineHeight": "{line-height.700}",
           "fontSize": "{font-size-body.100}",
