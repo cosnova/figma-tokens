@@ -191,7 +191,8 @@
       "typo.titles.300--strikethrough": "S:9b977f641f6717be9899c97a5a3698f5e9b06087,",
       "typo.subtitles.200": "S:d28f3a01c3b6dae17c3dba8dd3636da2328d8502,",
       "typo.subtitles.300": "S:760c01d23ff7aad1d9c8fe2c0547d016cf68d133,",
-      "drop-shadow.primary": "S:ce4c9de93b2962f58d6685a29193414bd48bd73d,"
+      "drop-shadow.primary": "S:ce4c9de93b2962f58d6685a29193414bd48bd73d,",
+      "typo.subheadline.400": "S:0a2212ed30e5852da7f3252bcc24556a3e3ea6c6,"
     }
   }
 ]
