@@ -4,7 +4,8 @@
     "name": "Base",
     "selectedTokenSets": {
       "Base": "enabled",
-      "[New]Catrice": "disabled"
+      "[New]Catrice": "disabled",
+      "Essence": "disabled"
     },
     "$figmaStyleReferences": {
       "color.primary.300": "S:ef3cc8b3eea0d18c726a2b75bfbd083bbecc9950,",
@@ -95,7 +96,8 @@
     "name": "Catrice",
     "selectedTokenSets": {
       "Base": "enabled",
-      "[New]Catrice": "enabled"
+      "[New]Catrice": "enabled",
+      "Essence": "disabled"
     },
     "$figmaStyleReferences": {
       "color.accent.300": "S:6eeb804f60bc48c6fd2059e16ac872fc3091d2bc,",
@@ -194,5 +196,15 @@
       "drop-shadow.primary": "S:ce4c9de93b2962f58d6685a29193414bd48bd73d,",
       "typo.subheadline.400": "S:0a2212ed30e5852da7f3252bcc24556a3e3ea6c6,"
     }
+  },
+  {
+    "id": "1b77c9cb4c119f52b67a8fde2d6fbe354011cd48",
+    "name": "Essence",
+    "selectedTokenSets": {
+      "Base": "enabled",
+      "[New]Catrice": "disabled",
+      "Essence": "enabled"
+    },
+    "$figmaStyleReferences": {}
   }
 ]
