@@ -3,9 +3,7 @@
     "id": "8017d6b2b9d212b8301a0fe5eaf3b64239bf4a56",
     "name": "Base",
     "selectedTokenSets": {
-      "Base": "enabled",
-      "[New]Catrice": "disabled",
-      "Essence": "disabled"
+      "Base": "enabled"
     },
     "$figmaStyleReferences": {
       "color.primary.300": "S:ef3cc8b3eea0d18c726a2b75bfbd083bbecc9950,",
@@ -96,8 +94,7 @@
     "name": "Catrice",
     "selectedTokenSets": {
       "Base": "enabled",
-      "[New]Catrice": "enabled",
-      "Essence": "disabled"
+      "[New]Catrice": "enabled"
     },
     "$figmaStyleReferences": {
       "color.accent.300": "S:6eeb804f60bc48c6fd2059e16ac872fc3091d2bc,",
@@ -202,7 +199,6 @@
     "name": "Essence",
     "selectedTokenSets": {
       "Base": "enabled",
-      "[New]Catrice": "disabled",
       "Essence": "enabled"
     },
     "$figmaStyleReferences": {}
