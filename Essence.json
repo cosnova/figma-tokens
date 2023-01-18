@@ -717,5 +717,32 @@
       "type": "letterSpacing",
       "description": "Resetting tracking to default font tracking"
     }
+  },
+  "buttons": {
+    "primary": {
+      "value": {
+        "borderRadius": "{border-radius.700}",
+        "spacing": "{spacing-400}",
+        "itemSpacing": "{spacing-200}"
+      },
+      "type": "composition"
+    },
+    "secondary": {
+      "value": {
+        "borderRadius": "{border-radius.700}",
+        "spacing": "{spacing-400}",
+        "itemSpacing": "{spacing-200}",
+        "borderWidth": "{border-width.200}"
+      },
+      "type": "composition"
+    },
+    "paypal": {
+      "value": {
+        "borderRadius": "{border-radius.700}",
+        "spacing": "{spacing-400}",
+        "itemSpacing": "{spacing-300}"
+      },
+      "type": "composition"
+    }
   }
 }
