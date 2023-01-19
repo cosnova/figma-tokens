@@ -1,8 +1,4 @@
 {
-  "spacing-400": {
-    "value": "{spacing-100}*4",
-    "type": "spacing"
-  },
   "spacing-100": {
     "value": "4",
     "type": "spacing"
@@ -13,6 +9,10 @@
   },
   "spacing-300": {
     "value": "{spacing-100}*3",
+    "type": "spacing"
+  },
+  "spacing-400": {
+    "value": "{spacing-100}*4",
     "type": "spacing"
   },
   "spacing-500": {
@@ -1114,13 +1114,5 @@
       },
       "type": "composition"
     }
-  },
-  "underline": {
-    "value": "underline",
-    "type": "textDecoration"
-  },
-  "striked": {
-    "value": "line-through",
-    "type": "textDecoration"
   }
 }
