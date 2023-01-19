@@ -705,17 +705,6 @@
         "type": "dropShadow"
       },
       "type": "boxShadow"
-    },
-    "milky": {
-      "value": {
-        "x": "0",
-        "y": "28",
-        "blur": "45",
-        "spread": "-1",
-        "color": "rgba(0, 0, 0, 0.05)",
-        "type": "dropShadow"
-      },
-      "type": "boxShadow"
     }
   },
   "tracking": {
@@ -724,17 +713,5 @@
       "type": "letterSpacing",
       "description": "Resetting tracking to default font tracking"
     }
-  },
-  "milky": {
-    "value": {
-      "backgroundBlur": "40",
-      "fill": "linear-gradient(123.55deg, rgba(255, 255, 255, 0.4) 11.74%, rgba(255, 255, 255, 0.1) 87.03%)",
-      "boxShadow": "{drop-shadow.milky}",
-      "borderRadiusTopLeft": "{border-radius.300}",
-      "borderRadiusTopRight": "{border-radius.300}",
-      "border": "linear-gradient(180deg, rgba(255, 255, 255, 0.4) 0%, rgba(255, 255, 255, 0) 100%)",
-      "borderWidth": "{border-width.200}"
-    },
-    "type": "composition"
   }
 }
