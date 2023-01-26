@@ -205,7 +205,7 @@
           "fontWeight": "{font-weight.400}",
           "lineHeight": "{line-height.200}",
           "fontSize": "{font-size-label.100}",
-          "textCase": "{font-size-label.100}"
+          "textCase": "{text-case.special}"
         },
         "type": "typography"
       },
@@ -743,6 +743,12 @@
         "itemSpacing": "{spacing-300}"
       },
       "type": "composition"
+    }
+  },
+  "text-case": {
+    "special": {
+      "value": "uppercase",
+      "type": "textCase"
     }
   }
 }
