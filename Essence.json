@@ -585,7 +585,7 @@
         "value": {
           "letterSpacing": "{tracking.default}",
           "fontFamily": "{font-family.secondary}",
-          "fontWeight": "{font-weight.400}",
+          "fontWeight": "{font-weight.300}",
           "lineHeight": "21px",
           "fontSize": "{font-size-title.300}",
           "textDecoration": "line-through",
