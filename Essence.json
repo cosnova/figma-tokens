@@ -442,7 +442,7 @@
           "fontSize": "66",
           "fontFamily": "{font-family.primary}",
           "fontWeight": "{font-weight.450}",
-          "textCase": "{text-case.special}"
+          "textCase": "{text-case.default}"
         },
         "type": "typography"
       },
@@ -453,7 +453,7 @@
           "letterSpacing": "{tracking.default}",
           "fontFamily": "{font-family.primary}",
           "fontWeight": "{font-weight.450}",
-          "textCase": "{text-case.special}"
+          "textCase": "{text-case.default}"
         },
         "type": "typography"
       },
@@ -464,7 +464,7 @@
           "letterSpacing": "{tracking.default}",
           "fontFamily": "{font-family.primary}",
           "fontWeight": "{font-weight.450}",
-          "textCase": "{text-case.special}"
+          "textCase": "{text-case.default}"
         },
         "type": "typography"
       },
@@ -475,7 +475,7 @@
           "letterSpacing": "{tracking.default}",
           "fontFamily": "{font-family.primary}",
           "fontWeight": "{font-weight.450}",
-          "textCase": "{text-case.special}"
+          "textCase": "{text-case.default}"
         },
         "type": "typography"
       },
@@ -486,7 +486,7 @@
           "fontFamily": "{font-family.primary}",
           "fontWeight": "{font-weight.450}",
           "lineHeight": "{line-height.850}",
-          "textCase": "{text-case.special}"
+          "textCase": "{text-case.default}"
         },
         "type": "typography"
       },
@@ -497,7 +497,7 @@
           "fontFamily": "{font-family.primary}",
           "fontWeight": "{font-weight.450}",
           "lineHeight": "{line-height.850}",
-          "textCase": "{text-case.special}"
+          "textCase": "{text-case.default}"
         },
         "type": "typography"
       },
@@ -508,7 +508,7 @@
           "fontFamily": "{font-family.primary}",
           "fontWeight": "{font-weight.450}",
           "lineHeight": "{line-height.700}",
-          "textCase": "{text-case.special}"
+          "textCase": "{text-case.default}"
         },
         "type": "typography"
       },
@@ -530,7 +530,7 @@
           "fontFamily": "{font-family.primary}",
           "fontWeight": "{font-weight.450}",
           "lineHeight": "{line-height.850}",
-          "textCase": "{text-case.special}"
+          "textCase": "{text-case.default}"
         },
         "type": "typography"
       }
