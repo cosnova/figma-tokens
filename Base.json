@@ -1114,5 +1114,15 @@
       },
       "type": "composition"
     }
+  },
+  "decoration": {
+    "stike": {
+      "value": "line-through",
+      "type": "textDecoration"
+    },
+    "underline": {
+      "value": "underline",
+      "type": "textDecoration"
+    }
   }
 }
