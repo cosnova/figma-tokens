@@ -131,6 +131,10 @@
     "700": {
       "value": "80",
       "type": "borderRadius"
+    },
+    "000": {
+      "value": "0",
+      "type": "borderRadius"
     }
   },
   "typo": {
