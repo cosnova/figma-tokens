@@ -720,6 +720,17 @@
         "type": "dropShadow"
       },
       "type": "boxShadow"
+    },
+    "new-text": {
+      "value": {
+        "x": "0",
+        "y": "0",
+        "blur": "2",
+        "spread": "0",
+        "color": "#000000",
+        "type": "dropShadow"
+      },
+      "type": "boxShadow"
     }
   },
   "tracking": {
