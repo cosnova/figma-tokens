@@ -84,20 +84,24 @@
     },
     "mood": {
       "300": {
-        "value": "#DFF1F3",
-        "type": "color"
+        "value": "{color.accent.400}",
+        "type": "color",
+        "description": "Original #DFF1F3"
       },
       "350": {
-        "value": "#eef6f8",
-        "type": "color"
+        "value": "{color.accent.400}",
+        "type": "color",
+        "description": "Original #eef6f8"
       },
       "400": {
-        "value": "#F9F2B5",
-        "type": "color"
+        "value": "{color.accent.400}",
+        "type": "color",
+        "description": "Original #F9F2B5"
       },
       "500": {
-        "value": "#E4F6DF",
-        "type": "color"
+        "value": "{color.accent.400}",
+        "type": "color",
+        "description": "Original #E4F6DF"
       }
     },
     "signal": {
@@ -721,9 +725,13 @@
   "buttons": {
     "primary": {
       "value": {
-        "borderRadius": "{border-radius.700}",
         "spacing": "{spacing-400}",
-        "itemSpacing": "{spacing-200}"
+        "itemSpacing": "{spacing-200}",
+        "borderRadius": "{border-radius.700}",
+        "borderRadiusTopLeft": "{border-radius.700}",
+        "borderRadiusTopRight": "{border-radius.700}",
+        "borderRadiusBottomRight": "{border-radius.700}",
+        "borderRadiusBottomLeft": "{border-radius.700}"
       },
       "type": "composition"
     },
@@ -732,7 +740,11 @@
         "borderRadius": "{border-radius.700}",
         "spacing": "{spacing-400}",
         "itemSpacing": "{spacing-200}",
-        "borderWidth": "{border-width.200}"
+        "borderWidth": "{border-width.200}",
+        "borderRadiusTopLeft": "{border-radius.700}",
+        "borderRadiusTopRight": "{border-radius.700}",
+        "borderRadiusBottomRight": "{border-radius.700}",
+        "borderRadiusBottomLeft": "{border-radius.700}"
       },
       "type": "composition"
     },
@@ -740,7 +752,11 @@
       "value": {
         "borderRadius": "{border-radius.700}",
         "spacing": "{spacing-400}",
-        "itemSpacing": "{spacing-300}"
+        "itemSpacing": "{spacing-300}",
+        "borderRadiusTopLeft": "{border-radius.700}",
+        "borderRadiusTopRight": "{border-radius.700}",
+        "borderRadiusBottomRight": "{border-radius.700}",
+        "borderRadiusBottomLeft": "{border-radius.700}"
       },
       "type": "composition"
     }
