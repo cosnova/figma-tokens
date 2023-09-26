@@ -373,6 +373,14 @@
         "category3-muted": {
           "value": "rgba({color.icons.ingredients.category3}, 0.2)",
           "type": "color"
+        },
+        "white": {
+          "value": "{color.neutral.100}",
+          "type": "color"
+        },
+        "white-muted": {
+          "value": "rgba({color.icons.ingredients.white}, 0.6)",
+          "type": "color"
         }
       }
     },
