@@ -35,6 +35,10 @@
     "value": "{spacing-100}*16",
     "type": "spacing"
   },
+  "spacing-950": {
+    "value": "{spacing-100}*20",
+    "type": "spacing"
+  },
   "spacing-1000": {
     "value": "{spacing-100}*24",
     "type": "spacing"
