@@ -109,6 +109,12 @@
           "type": "color"
         }
       }
+    },
+    "icons": {
+      "accent": {
+        "value": "{color.accent.600}",
+        "type": "color"
+      }
     }
   },
   "border-radius": {
