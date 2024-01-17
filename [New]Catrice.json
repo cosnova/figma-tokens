@@ -55,7 +55,7 @@
     "gradients": {
       "100": {
         "primary": {
-          "value": "#FF7D68",
+          "value": "#FF8B79",
           "type": "color"
         },
         "secondary": {
@@ -63,7 +63,7 @@
           "type": "color"
         },
         "tertiary": {
-          "value": "#885CD9",
+          "value": "#AB80FC",
           "type": "color"
         }
       },
@@ -73,11 +73,11 @@
           "type": "color"
         },
         "secondary": {
-          "value": "#FFB0F3",
+          "value": "#EDB7FF",
           "type": "color"
         },
         "tertiary": {
-          "value": "#8A5AE0",
+          "value": "#A676FB",
           "type": "color"
         }
       },
