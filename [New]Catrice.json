@@ -519,32 +519,10 @@
       "900": {
         "value": {
           "letterSpacing": "{tracking.default}",
-          "fontFamily": "{font-family.secondary}",
-          "fontWeight": "{font-weight.300}",
-          "lineHeight": "52",
-          "fontSize": "40",
-          "textCase": "{text-case.default}"
-        },
-        "type": "typography"
-      },
-      "1000": {
-        "value": {
-          "letterSpacing": "{tracking.default}",
           "fontFamily": "{font-family.primary}",
           "fontWeight": "{font-weight.400}",
           "lineHeight": "42",
           "fontSize": "32",
-          "textCase": "{text-case.default}"
-        },
-        "type": "typography"
-      },
-      "1100": {
-        "value": {
-          "letterSpacing": "{tracking.default}",
-          "fontFamily": "{font-family.primary}",
-          "fontWeight": "{font-weight.300}",
-          "lineHeight": "36",
-          "fontSize": "{font-size-headline.400}",
           "textCase": "{text-case.default}"
         },
         "type": "typography"
