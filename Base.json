@@ -1101,8 +1101,7 @@
       "value": {
         "spacing": "{spacing-400}",
         "itemSpacing": "{spacing-200}",
-        "borderRadiusTopRight": "{border-radius.300}",
-        "borderRadiusBottomLeft": "{border-radius.300}"
+        "borderRadius": "{border-radius.100}"
       },
       "type": "composition"
     },
@@ -1110,9 +1109,8 @@
       "value": {
         "spacing": "{spacing-400}",
         "itemSpacing": "{spacing-200}",
-        "borderRadiusTopRight": "{border-radius.300}",
-        "borderRadiusBottomLeft": "{border-radius.300}",
-        "borderWidth": "{border-width.200}"
+        "borderWidth": "{border-width.200}",
+        "borderRadius": "{border-radius.100}"
       },
       "type": "composition",
       "description": "Secondary button sizes + border"
@@ -1121,8 +1119,7 @@
       "value": {
         "spacing": "{spacing-400}",
         "itemSpacing": "{spacing-300}",
-        "borderRadiusTopRight": "{border-radius.300}",
-        "borderRadiusBottomLeft": "{border-radius.300}"
+        "borderRadius": "{border-radius.100}"
       },
       "type": "composition"
     }
