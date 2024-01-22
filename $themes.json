@@ -191,7 +191,15 @@
       "typo.subtitles.200": "S:d28f3a01c3b6dae17c3dba8dd3636da2328d8502,",
       "typo.subtitles.300": "S:760c01d23ff7aad1d9c8fe2c0547d016cf68d133,",
       "drop-shadow.primary": "S:ce4c9de93b2962f58d6685a29193414bd48bd73d,",
-      "typo.subheadline.400": "S:0a2212ed30e5852da7f3252bcc24556a3e3ea6c6,"
+      "typo.subheadline.400": "S:0a2212ed30e5852da7f3252bcc24556a3e3ea6c6,",
+      "color.icons.ingredients.white": "S:13df90278613d758681d85bf2e3eb5cbc992cade,",
+      "color.icons.ingredients.white-muted": "S:0a7ad17718ebd0708c404767900b68aa1cbaee49,",
+      "typo.headline.700": "S:5cf581ccc85925128997cd897f3754929e6861f1,",
+      "typo.headline.800": "S:5b6fc00171da8a1d8b8711183eb852cd52bd05a3,",
+      "typo.headline.900": "S:2bc1c37dfe5b3fb702141eec045b76b4f5b9a4fa,",
+      "drop-shadow.secondary": "S:1ec4f05d7e2704df49ad3064e8f9ce8a6b900afe,",
+      "drop-shadow.milky": "S:3ac52e31bf58507ccb60c67896cac7d740e6b802,",
+      "drop-shadow.new-text": "S:3378031bb485113930015d650a061d69602830b8,"
     }
   },
   {
