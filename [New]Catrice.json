@@ -706,7 +706,7 @@
         "value": {
           "letterSpacing": "{tracking.default}",
           "fontFamily": "{font-family.secondary}",
-          "fontWeight": "{font-weight.100}",
+          "fontWeight": "{font-weight.200}",
           "lineHeight": "{line-height.900}",
           "fontSize": "{font-size-headline.400}",
           "textCase": "{text-case.default}"
@@ -717,7 +717,7 @@
         "value": {
           "letterSpacing": "{tracking.default}",
           "fontFamily": "{font-family.secondary}",
-          "fontWeight": "{font-weight.100}",
+          "fontWeight": "{font-weight.200}",
           "lineHeight": "{line-height.850}",
           "fontSize": "{font-size-headline.300}",
           "textCase": "{text-case.default}"
@@ -728,7 +728,7 @@
         "value": {
           "letterSpacing": "{tracking.default}",
           "fontFamily": "{font-family.secondary}",
-          "fontWeight": "{font-weight.100}",
+          "fontWeight": "{font-weight.200}",
           "lineHeight": "{line-height.700}",
           "fontSize": "{font-size-headline.100}",
           "textCase": "{text-case.default}"
