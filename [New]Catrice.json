@@ -250,7 +250,7 @@
         "value": {
           "letterSpacing": "{tracking.default}",
           "fontFamily": "{font-family.secondary}",
-          "fontWeight": "{font-weight.100}",
+          "fontWeight": "{font-weight.200}",
           "lineHeight": "{font-weight.100}",
           "fontSize": "{font-size-label.500}",
           "textCase": "{text-case.special}"
