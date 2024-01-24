@@ -245,19 +245,23 @@
     "primary": {
       "300": {
         "value": "#fff",
-        "type": "color"
+        "type": "color",
+        "description": "White"
       },
       "400": {
         "value": "rgba({color.primary.300}, 0.2)",
-        "type": "color"
+        "type": "color",
+        "description": "Black Opaque"
       },
       "500": {
         "value": "#000",
-        "type": "color"
+        "type": "color",
+        "description": "Black"
       },
       "600": {
         "value": "rgba({color.primary.500}, 0.2)",
-        "type": "color"
+        "type": "color",
+        "description": "Grey"
       }
     },
     "accent": {
@@ -281,49 +285,60 @@
     "neutral": {
       "100": {
         "value": "#fff",
-        "type": "color"
+        "type": "color",
+        "description": "White"
       },
       "200": {
         "value": "#f7f7f7",
-        "type": "color"
+        "type": "color",
+        "description": "Alabaster"
       },
       "300": {
         "value": "#d6d6d6",
-        "type": "color"
+        "type": "color",
+        "description": "Alto"
       },
       "400": {
         "value": "#b2b2b2",
-        "type": "color"
+        "type": "color",
+        "description": "Silver Chalice"
       },
       "500": {
         "value": "#737373",
-        "type": "color"
+        "type": "color",
+        "description": "Dove Gray"
       },
       "600": {
         "value": "#4c4c4c",
-        "type": "color"
+        "type": "color",
+        "description": "Tundora"
       },
       "700": {
         "value": "#262626",
-        "type": "color"
+        "type": "color",
+        "description": "Mine Shaft"
       },
       "800": {
         "value": "#000",
-        "type": "color"
+        "type": "color",
+        "description": "Black"
       }
     },
     "signal": {
       "100": {
         "value": "#24a249",
-        "type": "color"
+        "type": "color",
+        "description": "Eucalyptus"
       },
       "200": {
         "value": "#fdd13a",
-        "type": "color"
+        "type": "color",
+        "description": "Bright Sun"
       },
       "300": {
         "value": "#da1e28",
-        "type": "color"
+        "type": "color",
+        "description": "Alizarin Crimson"
       }
     },
     "annotation": {
@@ -356,50 +371,61 @@
       "ingredients": {
         "category1": {
           "value": "#FF8000",
-          "type": "color"
+          "type": "color",
+          "description": "Flush Orange"
         },
         "category1-muted": {
           "value": "rgba({color.icons.ingredients.category1}, 0.2)",
-          "type": "color"
+          "type": "color",
+          "description": "Muted Orange"
         },
         "category2": {
           "value": "#6933C0",
-          "type": "color"
+          "type": "color",
+          "description": "Purple Heart"
         },
         "category2-muted": {
           "value": "rgba({color.icons.ingredients.category2}, 0.2)",
-          "type": "color"
-        },
-        "category3": {
-          "value": "#0082FF",
-          "type": "color"
+          "type": "color",
+          "description": "Muted Purple Heart"
         },
         "category3-muted": {
           "value": "rgba({color.icons.ingredients.category3}, 0.2)",
-          "type": "color"
+          "type": "color",
+          "description": "Muted Azure Radiance"
+        },
+        "category3": {
+          "value": "#0082FF",
+          "type": "color",
+          "description": "Azure Radiance"
         },
         "white": {
           "value": "{color.neutral.100}",
-          "type": "color"
+          "type": "color",
+          "description": "White"
         },
         "white-muted": {
           "value": "rgba({color.icons.ingredients.white}, 0.6)",
-          "type": "color"
+          "type": "color",
+          "description": "Muted White"
         }
       }
     },
     "special": {
       "paypal-100": {
         "value": "#ffc439",
-        "type": "color"
+        "type": "color",
+        "description": "Sunglow"
       },
       "paypal-200": {
         "value": "#F3BA37",
-        "type": "color"
+        "type": "color",
+        "description": "Saffron"
       },
       "paypal-300": {
         "value": "#DAA731",
-        "type": "color"
+        "type": "color",
+        "description": "Golden Grass"
       }
     }
   },

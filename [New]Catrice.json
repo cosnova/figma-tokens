@@ -37,76 +37,92 @@
     "accent": {
       "300": {
         "value": "linear-gradient(-90deg, {color.gradients.100.primary} 0%, {color.gradients.100.secondary} 50%, {color.gradients.100.tertiary} 100%)",
-        "type": "color"
+        "type": "color",
+        "description": "Accent Gradient One"
       },
       "400": {
         "value": "linear-gradient(-90deg, {color.gradients.200.primary} 0%, {color.gradients.200.secondary} 50%, {color.gradients.200.tertiary} 100%)",
-        "type": "color"
+        "type": "color",
+        "description": "Accent Gradient Two"
       },
       "500": {
         "value": "linear-gradient(-90deg, {color.gradients.300.primary} 0%, {color.gradients.300.secondary} 50%, {color.gradients.300.tertiary} 100%)",
-        "type": "color"
+        "type": "color",
+        "description": "Accent Gradient Three"
       },
       "600": {
         "value": "linear-gradient(-90deg, {color.gradients.400.primary} 0%, {color.gradients.400.secondary} 50%, {color.gradients.400.tertiary} 100%)",
-        "type": "color"
+        "type": "color",
+        "description": "Accent Gradient Four"
       }
     },
     "gradients": {
       "100": {
         "primary": {
           "value": "#FF8B79",
-          "type": "color"
+          "type": "color",
+          "description": "Gradient One Primary"
         },
         "secondary": {
           "value": "#FFD6F9",
-          "type": "color"
+          "type": "color",
+          "description": "Gradient One Secondary"
         },
         "tertiary": {
           "value": "#AB80FC",
-          "type": "color"
+          "type": "color",
+          "description": "Gradient One Tertiary"
         }
       },
       "200": {
         "primary": {
           "value": "#FF7D6B",
-          "type": "color"
+          "type": "color",
+          "description": "Gradient Two Primary"
         },
         "secondary": {
           "value": "#EDB7FF",
-          "type": "color"
+          "type": "color",
+          "description": "Gradient Two Secondary"
         },
         "tertiary": {
           "value": "#A676FB",
-          "type": "color"
+          "type": "color",
+          "description": "Gradient Two Tertiary"
         }
       },
       "300": {
         "primary": {
           "value": "#F65340",
-          "type": "color"
+          "type": "color",
+          "description": "Gradient Three Primary"
         },
         "secondary": {
           "value": "#D676F8",
-          "type": "color"
+          "type": "color",
+          "description": "Gradient Three Secondary"
         },
         "tertiary": {
           "value": "#9161D8",
-          "type": "color"
+          "type": "color",
+          "description": "Gradient Three Tertiary"
         }
       },
       "400": {
         "primary": {
           "value": "#FF6047",
-          "type": "color"
+          "type": "color",
+          "description": "Gradient Four Primary"
         },
         "secondary": {
           "value": "#C850F5",
-          "type": "color"
+          "type": "color",
+          "description": "Gradient Four Secondary"
         },
         "tertiary": {
           "value": "#693ABD",
-          "type": "color"
+          "type": "color",
+          "description": "Gradient Four Tertiary"
         }
       }
     },
