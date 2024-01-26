@@ -814,10 +814,10 @@
         "type": "color",
         "description": "Image overlay gradient bottom -> up"
       },
-      "top": {
-        "value": "linear-gradient(180deg, rgba(0, 0, 0, 0.2) 0%, rgba(0, 0, 0, 0) 22%);",
+      "TopAndBottom": {
+        "value": "linear-gradient(180deg, rgba(0, 0, 0, 0.2) 0%, rgba(0, 0, 0, 0) 22%, rgba(0, 0, 0, 0) 50%, rgba(0, 0, 0, 0.5) 100%);",
         "type": "color",
-        "description": "Overlay gradient top -> bottom"
+        "description": "Overlay gradient top -> bottom and bottom -> top"
       }
     }
   }
