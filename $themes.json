@@ -199,7 +199,9 @@
       "typo.headline.900": "S:2bc1c37dfe5b3fb702141eec045b76b4f5b9a4fa,",
       "drop-shadow.secondary": "S:1ec4f05d7e2704df49ad3064e8f9ce8a6b900afe,",
       "drop-shadow.milky": "S:3ac52e31bf58507ccb60c67896cac7d740e6b802,",
-      "drop-shadow.new-text": "S:3378031bb485113930015d650a061d69602830b8,"
+      "drop-shadow.new-text": "S:3378031bb485113930015d650a061d69602830b8,",
+      "effect.overlay.bottom": "S:6de0c0243a3b934eae644b2277a3e52ba9426a7b,",
+      "effect.overlay.top": "S:95dca624bf149b29fc3cb3f099508f1920fb1a12,"
     }
   },
   {
