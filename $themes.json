@@ -305,7 +305,14 @@
       "typo.subheadline.100": "S:c3a71e7f933e9e55c9f31e692b851baa9acc6c5b,",
       "typo.subheadline.200": "S:c04578a8dfab2dd21ab17a1a27fda72c6d63b526,",
       "typo.subheadline.300": "S:f86ede7f63dd49afa3c954eea34d506cf906fd0a,",
-      "typo.subheadline.400": "S:17d662d1996fdc5c0afbb094a9e9bffedf358d04,"
+      "typo.subheadline.400": "S:17d662d1996fdc5c0afbb094a9e9bffedf358d04,",
+      "color.icons.ingredients.white": "S:49f7c1a84791d4e914b988e65936d0d453e06c5d,",
+      "color.icons.ingredients.white-muted": "S:71d1ace2c7810a335b3fba10f7332f269a09199a,",
+      "typo.label.600-semi-bold": "S:cd8e4610c5f82e1e4139eeec822b1f14668acd14,",
+      "typo.label.500-semi-bold": "S:388f5c5b6e961533d2fa899ac3b3fec7cc0ec397,",
+      "typo.headline.700": "S:b07cf3d049cd7c2c49ad31044db57654ed5394fd,",
+      "typo.headline.750": "S:845228b96ee6fd921a234a40af810269951ee537,",
+      "typo.titles.150": "S:7b1f3b0c0c2abcdc103d7ad996d67cbf3a7f953f,"
     }
   }
 ]
