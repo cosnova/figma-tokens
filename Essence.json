@@ -435,7 +435,7 @@
         "value": {
           "letterSpacing": "{tracking.default}",
           "fontFamily": "{font-family.secondary}",
-          "fontWeight": "{font-weight.200}",
+          "fontWeight": "{font-weight.350}",
           "lineHeight": "{line-height.850}",
           "fontSize": "{font-size-body.400}",
           "textCase": "{text-case.default}"
