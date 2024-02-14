@@ -133,6 +133,48 @@
         "value": "#F8212C",
         "type": "color"
       }
+    },
+    "gradient": {
+      "100": {
+        "value": "linear-gradient(135deg, #E3EF71 0%, #C5E85D 100%);",
+        "type": "color",
+        "description": "Avocado"
+      },
+      "200": {
+        "value": "linear-gradient(135deg, #88C6FF 0%, #52A3FF 100%);",
+        "type": "color",
+        "description": "Avocado"
+      },
+      "300": {
+        "value": "linear-gradient(135deg, #FFE55C 0%, #FFBE3D 100%);",
+        "type": "color",
+        "description": "Avocado"
+      },
+      "400": {
+        "value": "linear-gradient(135deg, #FF9DD2 0%, #FF5AA3 100%);",
+        "type": "color",
+        "description": "Avocado"
+      },
+      "500": {
+        "value": "linear-gradient(135deg, #E975CA 0%, #B21B88 100%);",
+        "type": "color",
+        "description": "Avocado"
+      },
+      "600": {
+        "value": "linear-gradient(45deg, #E52677 0%, #AD1784 100%);",
+        "type": "color",
+        "description": "Avocado"
+      }
+    },
+    "primary": {
+      "700": {
+        "value": "#421F40",
+        "type": "color"
+      },
+      "800": {
+        "value": "#3D3A49",
+        "type": "color"
+      }
     }
   },
   "border-radius": {

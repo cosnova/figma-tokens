@@ -312,7 +312,15 @@
       "typo.label.500-semi-bold": "S:388f5c5b6e961533d2fa899ac3b3fec7cc0ec397,",
       "typo.headline.700": "S:b07cf3d049cd7c2c49ad31044db57654ed5394fd,",
       "typo.headline.750": "S:845228b96ee6fd921a234a40af810269951ee537,",
-      "typo.titles.150": "S:7b1f3b0c0c2abcdc103d7ad996d67cbf3a7f953f,"
+      "typo.titles.150": "S:7b1f3b0c0c2abcdc103d7ad996d67cbf3a7f953f,",
+      "color.gradient.100": "S:a542a43509b20b5acfbe53752c7c113cbe4c0859,",
+      "color.gradient.300": "S:9c1135994c7ae1cfc2ecf4d7f0caac3823f4dddf,",
+      "color.gradient.400": "S:cc4c2ad295888ed56791695266f338f08aae7872,",
+      "color.gradient.500": "S:2348f113045d8b7f57cee86f6f3529fffbd4b7ee,",
+      "color.gradient.600": "S:605c0fa7e572e2abeafadea1701fe635f280e8dc,",
+      "color.gradient.200": "S:3dfb50d94deb40bc816d5c4d7f30e586bd7a7752,",
+      "color.primary.700": "S:bbe5c23032b76a3e0836f865f14937e7fadf1ae5,",
+      "color.primary.800": "S:92ee31f39de6821cb52eecc691c87316df232ed3,"
     }
   }
 ]
