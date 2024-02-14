@@ -56,7 +56,7 @@
   "color": {
     "accent": {
       "300": {
-        "value": "#AF1685",
+        "value": "{color.gradient.600}",
         "type": "color"
       },
       "400": {
@@ -64,11 +64,11 @@
         "type": "color"
       },
       "500": {
-        "value": "#83005F",
+        "value": "linear-gradient(45deg, #BA497D 0%, #8D0D65 100%);",
         "type": "color"
       },
       "600": {
-        "value": "#590943",
+        "value": "linear-gradient(45deg, #961372 0%, #5E0A47 100%);",
         "type": "color"
       },
       "700": {
