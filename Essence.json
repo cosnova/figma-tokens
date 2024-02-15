@@ -57,23 +57,28 @@
     "accent": {
       "300": {
         "value": "{color.gradient.600}",
-        "type": "color"
+        "type": "color",
+        "description": "Primary"
       },
       "400": {
         "value": "#f4cdea",
-        "type": "color"
+        "type": "color",
+        "description": "Soft Pink"
       },
       "500": {
         "value": "linear-gradient(45deg, #BA497D 0%, #8D0D65 100%);",
-        "type": "color"
+        "type": "color",
+        "description": "Secondary"
       },
       "600": {
         "value": "linear-gradient(45deg, #961372 0%, #5E0A47 100%);",
-        "type": "color"
+        "type": "color",
+        "description": "Tertiary"
       },
       "700": {
         "value": "#FAE6F3",
-        "type": "color"
+        "type": "color",
+        "description": "Soft Pink Muted"
       }
     },
     "secondary": {
@@ -138,32 +143,32 @@
       "100": {
         "value": "linear-gradient(135deg, #E3EF71 0%, #C5E85D 100%);",
         "type": "color",
-        "description": "Avocado"
+        "description": "David-Lasse Diestelkamp"
       },
       "200": {
         "value": "linear-gradient(135deg, #88C6FF 0%, #52A3FF 100%);",
         "type": "color",
-        "description": "Avocado"
+        "description": "Veronica Brollo Eikel"
       },
       "300": {
         "value": "linear-gradient(135deg, #FFE55C 0%, #FFBE3D 100%);",
         "type": "color",
-        "description": "Avocado"
+        "description": "Eliana-Edeltraut Schuba"
       },
       "400": {
         "value": "linear-gradient(135deg, #FF9DD2 0%, #FF5AA3 100%);",
         "type": "color",
-        "description": "Avocado"
+        "description": "Tristan-Robby Busemann"
       },
       "500": {
         "value": "linear-gradient(135deg, #E975CA 0%, #B21B88 100%);",
         "type": "color",
-        "description": "Avocado"
+        "description": "Uli-Udo Croissant"
       },
       "600": {
         "value": "linear-gradient(45deg, #E52677 0%, #AD1784 100%);",
         "type": "color",
-        "description": "Avocado"
+        "description": "Sina-Sinalco Salesch Bieber"
       }
     },
     "primary": {
