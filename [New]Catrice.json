@@ -641,17 +641,6 @@
         "value": {
           "letterSpacing": "{tracking.default}",
           "fontFamily": "{font-family.secondary}",
-          "fontWeight": "{font-weight.200}",
-          "lineHeight": "{line-height.500}",
-          "fontSize": "{font-size-title.100}",
-          "textCase": "{text-case.default}"
-        },
-        "type": "typography"
-      },
-      "300": {
-        "value": {
-          "letterSpacing": "{tracking.default}",
-          "fontFamily": "{font-family.secondary}",
           "fontWeight": "{font-weight.300}",
           "lineHeight": "{line-height.500}",
           "fontSize": "{font-size-title.100}",

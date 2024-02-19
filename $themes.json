@@ -85,8 +85,7 @@
       "color.special.paypal-200": "S:1079a22d3bbccedb6108332d4e8e3fd46a6311d4,",
       "color.special.paypal-300": "S:32ba2bf0f5b42a756de7c54b34c7fe62bb72b3f2,",
       "typo.titles.300--strikethrough": "S:127cc593e05aa38290b7338f99fd2e3b4d282e9e,",
-      "typo.subtitles.200": "S:6f6db132965565b510c64e00c31a534699b60046,",
-      "typo.subtitles.300": "S:ee9489f2fffd3500cff4b954c86f01e882e2f187,"
+      "typo.subtitles.200": "S:ee9489f2fffd3500cff4b954c86f01e882e2f187,"
     }
   },
   {
@@ -188,8 +187,6 @@
       "color.special.paypal-200": "S:36fbc119814537b201089f6952655e47372ce61c,",
       "color.special.paypal-300": "S:e7bd59f031b4a1f0d54f71ca24b51b0bebd95725,",
       "typo.titles.300--strikethrough": "S:9b977f641f6717be9899c97a5a3698f5e9b06087,",
-      "typo.subtitles.200": "S:d28f3a01c3b6dae17c3dba8dd3636da2328d8502,",
-      "typo.subtitles.300": "S:760c01d23ff7aad1d9c8fe2c0547d016cf68d133,",
       "drop-shadow.primary": "S:ce4c9de93b2962f58d6685a29193414bd48bd73d,",
       "typo.subheadline.400": "S:0a2212ed30e5852da7f3252bcc24556a3e3ea6c6,",
       "color.icons.ingredients.white": "S:13df90278613d758681d85bf2e3eb5cbc992cade,",
@@ -201,7 +198,8 @@
       "drop-shadow.milky": "S:3ac52e31bf58507ccb60c67896cac7d740e6b802,",
       "drop-shadow.new-text": "S:3378031bb485113930015d650a061d69602830b8,",
       "effect.overlay.bottom": "S:6de0c0243a3b934eae644b2277a3e52ba9426a7b,",
-      "effect.overlay.TopAndBottom": "S:7f6ba365aea02fe8bc3b68af61018e1708a9e8d9,"
+      "effect.overlay.TopAndBottom": "S:7f6ba365aea02fe8bc3b68af61018e1708a9e8d9,",
+      "typo.subtitles.200": "S:760c01d23ff7aad1d9c8fe2c0547d016cf68d133,"
     }
   },
   {
@@ -297,8 +295,7 @@
       "typo.titles.400": "S:0fd86afb3508384deda98665dd3a3243d169fd21,",
       "typo.titles.300--strikethrough": "S:fdaa0b2bc8cfd0e5fa4e3501c9c5a7309ca2aff6,",
       "typo.subtitles.100": "S:a4e73030319ec4028fb5185dde02f732e31cd2c1,",
-      "typo.subtitles.200": "S:5670b7585872898a4b1599dfe9853b9bb80fd778,",
-      "typo.subtitles.300": "S:334fd435b2c543dc1ed8f5c4355f7c68d1a45222,",
+      "typo.subtitles.200": "S:334fd435b2c543dc1ed8f5c4355f7c68d1a45222,",
       "typo.subtitles.100-highlight": "S:b3516e74073e7beb5de6f392c482dfcb451338de,",
       "typo.dropdown.Leading-16": "S:2e9eebb51888b6aa74d10b4a8669e7a22dec8e98,",
       "typo.dropdown.xParts-Leading-16": "S:bcbb44549c615fbc0e091af09f7c81e491613af2,",
