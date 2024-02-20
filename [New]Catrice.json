@@ -435,7 +435,7 @@
     "headline": {
       "100": {
         "value": {
-          "lineHeight": "78",
+          "lineHeight": "{line-height.headlines}",
           "letterSpacing": "{tracking.default}",
           "fontSize": "66",
           "fontFamily": "{font-family.primary}",
@@ -446,7 +446,7 @@
       },
       "200": {
         "value": {
-          "lineHeight": "60",
+          "lineHeight": "{line-height.headlines}",
           "fontSize": "48",
           "letterSpacing": "{tracking.default}",
           "fontFamily": "{font-family.primary}",
@@ -457,7 +457,7 @@
       },
       "300": {
         "value": {
-          "lineHeight": "52",
+          "lineHeight": "{line-height.headlines}",
           "fontSize": "40",
           "letterSpacing": "{tracking.default}",
           "fontFamily": "{font-family.primary}",
@@ -468,7 +468,7 @@
       },
       "400": {
         "value": {
-          "lineHeight": "36",
+          "lineHeight": "{line-height.headlines}",
           "fontSize": "{font-size-headline.400}",
           "letterSpacing": "{tracking.default}",
           "fontFamily": "{font-family.primary}",
@@ -483,7 +483,7 @@
           "fontSize": "22",
           "fontFamily": "{font-family.primary}",
           "fontWeight": "{font-weight.400}",
-          "lineHeight": "{line-height.850}",
+          "lineHeight": "{line-height.headlines}",
           "textCase": "{text-case.special}"
         },
         "type": "typography"
@@ -494,7 +494,7 @@
           "fontSize": "{font-size-headline.100}",
           "fontFamily": "{font-family.primary}",
           "fontWeight": "{font-weight.400}",
-          "lineHeight": "{line-height.850}",
+          "lineHeight": "{line-height.headlines}",
           "textCase": "{text-case.special}"
         },
         "type": "typography"
@@ -505,7 +505,7 @@
           "fontSize": "{font-size-body.300}",
           "fontFamily": "{font-family.primary}",
           "fontWeight": "{font-weight.400}",
-          "lineHeight": "{line-height.700}",
+          "lineHeight": "{line-height.headlines}",
           "textCase": "{text-case.special}"
         },
         "type": "typography"
@@ -515,7 +515,7 @@
           "letterSpacing": "{tracking.default}",
           "fontFamily": "{font-family.secondary}",
           "fontWeight": "{font-weight.400}",
-          "lineHeight": "92",
+          "lineHeight": "{line-height.headlines}",
           "fontSize": "80",
           "textCase": "{text-case.default}"
         },
@@ -526,7 +526,7 @@
           "letterSpacing": "{tracking.default}",
           "fontFamily": "{font-family.secondary}",
           "fontWeight": "{font-weight.400}",
-          "lineHeight": "84",
+          "lineHeight": "{line-height.headlines}",
           "fontSize": "{font-size-headline.800}",
           "textCase": "{text-case.default}"
         },
@@ -537,7 +537,7 @@
           "letterSpacing": "{tracking.default}",
           "fontFamily": "{font-family.primary}",
           "fontWeight": "{font-weight.400}",
-          "lineHeight": "42",
+          "lineHeight": "{line-height.headlines}",
           "fontSize": "32",
           "textCase": "{text-case.default}"
         },
@@ -545,7 +545,7 @@
       },
       "400-mixed": {
         "value": {
-          "lineHeight": "36",
+          "lineHeight": "{line-height.headlines}",
           "fontSize": "{font-size-headline.400}",
           "letterSpacing": "{tracking.default}",
           "fontFamily": "{font-family.primary}",
@@ -560,7 +560,7 @@
           "fontSize": "{font-size-headline.100}",
           "fontFamily": "{font-family.primary}",
           "fontWeight": "{font-weight.400}",
-          "lineHeight": "{line-height.850}",
+          "lineHeight": "{line-height.headlines}",
           "textCase": "{text-case.special}"
         },
         "type": "typography"
@@ -808,6 +808,12 @@
         "type": "color",
         "description": "Overlay gradient top -> bottom and bottom -> top"
       }
+    }
+  },
+  "line-height": {
+    "headlines": {
+      "value": "130%",
+      "type": "lineHeights"
     }
   }
 }
