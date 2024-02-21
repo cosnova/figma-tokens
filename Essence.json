@@ -151,7 +151,7 @@
         "description": "Veronica Brollo Eikel"
       },
       "300": {
-        "value": "linear-gradient(135deg, #FFE55C 0%, #FFBE3D 100%);",
+        "value": "linear-gradient(135deg, #FFF784 0%, #FFEE00 100%);",
         "type": "color",
         "description": "Eliana-Edeltraut Schuba"
       },
