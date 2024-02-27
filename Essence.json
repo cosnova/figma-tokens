@@ -890,5 +890,19 @@
       "value": "130%",
       "type": "lineHeights"
     }
+  },
+  "effect": {
+    "overlay": {
+      "bottom": {
+        "value": "linear-gradient(180deg, rgba(0, 0, 0, 0) 50%, rgba(0, 0, 0, 0.5) 100%);",
+        "type": "color",
+        "description": "Image overlay gradient bottom -> up"
+      },
+      "TopAndBottom": {
+        "value": "linear-gradient(180deg, rgba(0, 0, 0, 0.2) 0%, rgba(0, 0, 0, 0) 22%, rgba(0, 0, 0, 0) 50%, rgba(0, 0, 0, 0.5) 100%);",
+        "type": "color",
+        "description": "Overlay gradient top -> bottom and bottom -> top"
+      }
+    }
   }
 }
