@@ -513,7 +513,7 @@
       "700": {
         "value": {
           "letterSpacing": "{tracking.default}",
-          "fontFamily": "{font-family.secondary}",
+          "fontFamily": "{font-family.primary}",
           "fontWeight": "{font-weight.400}",
           "lineHeight": "{line-height.headlines}",
           "fontSize": "80",
@@ -524,7 +524,7 @@
       "800": {
         "value": {
           "letterSpacing": "{tracking.default}",
-          "fontFamily": "{font-family.secondary}",
+          "fontFamily": "{font-family.primary}",
           "fontWeight": "{font-weight.400}",
           "lineHeight": "{line-height.headlines}",
           "fontSize": "{font-size-headline.800}",
