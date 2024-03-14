@@ -904,5 +904,15 @@
         "description": "Overlay gradient top -> bottom and bottom -> top"
       }
     }
+  },
+  "milky-background": {
+    "value": {
+      "backgroundBlur": "128",
+      "fill": "rgba(255, 255, 255, 0.8)",
+      "borderRadius": "0",
+      "border": "0",
+      "boxShadow": "none"
+    },
+    "type": "composition"
   }
 }
