@@ -796,6 +796,16 @@
     },
     "type": "composition"
   },
+  "milky-background": {
+    "value": {
+      "backgroundBlur": "40",
+      "fill": "linear-gradient(123.55deg, rgba(255, 255, 255, 0.4) 11.74%, rgba(255, 255, 255, 0.1) 87.03%)",
+      "border": "linear-gradient(180deg, rgba(255, 255, 255, 0.4) 0%, rgba(255, 255, 255, 0) 100%)",
+      "borderWidth": "{border-width.200}"
+    },
+    "type": "composition",
+    "description": "Only milky background, blur and stroke"
+  },
   "effect": {
     "overlay": {
       "bottom": {
