@@ -799,9 +799,10 @@
   "milky-background": {
     "value": {
       "backgroundBlur": "40",
-      "fill": "linear-gradient(123.55deg, rgba(255, 255, 255, 0.4) 11.74%, rgba(255, 255, 255, 0.1) 87.03%)",
-      "border": "linear-gradient(180deg, rgba(255, 255, 255, 0.4) 0%, rgba(255, 255, 255, 0) 100%)",
-      "borderWidth": "{border-width.200}"
+      "fill": "linear-gradient(124deg, rgba(255, 255, 255, 0.85) 11.74%, rgba(255, 255, 255, 0.70) 87.03%)",
+      "border": "0",
+      "borderRadius": "0",
+      "boxShadow": "none"
     },
     "type": "composition",
     "description": "Only milky background, blur and stroke"
